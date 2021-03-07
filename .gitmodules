@@ -1,0 +1,12 @@
+[submodule "packages/rmw-shell"]
+	path = packages/rmw-shell
+	url = https://github.com/NodeJunkie/rmw-shell.git
+[submodule "packages/firebase-function-tools"]
+	path = packages/firebase-function-tools
+	url = https://github.com/NodeJunkie/rmw-firebase-function-tools.git
+[submodule "packages/base-shell"]
+	path = packages/base-shell
+	url = https://github.com/NodeJunkie/rmw-base-shell.git
+[submodule "packages/material-ui-shell"]
+	path = packages/material-ui-shell
+	url = https://github.com/NodeJunkie/rmw-material-ui-shell.git
